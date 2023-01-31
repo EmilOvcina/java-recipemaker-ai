@@ -1,0 +1,9 @@
+//The recipe from the project description
+boil Milk Pot
+drain Pot
+//yolks are in bowl2
+sep_egg Bowl1 Bowl2
+whip Bowl1
+pour Bowl2 Pot
+whip Pot
+pour Bowl1 Pot

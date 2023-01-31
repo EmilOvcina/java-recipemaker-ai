@@ -1,0 +1,7 @@
+//Good old student food
+boil Pasta Pot
+drain Pot
+add Ketchup Pot
+boil Sausages Pot2
+drain Pot2
+pour Pot2 Pot
